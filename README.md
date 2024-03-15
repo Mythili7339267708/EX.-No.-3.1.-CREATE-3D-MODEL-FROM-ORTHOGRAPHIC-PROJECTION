@@ -41,6 +41,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+<img width="563" alt="SERN EX 03" src="https://github.com/Mythili7339267708/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/144260246/52009730-dfe3-4d60-9c8c-929b03c743e9">
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
